@@ -16,4 +16,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://project1-backend-ukuj.onrender.com
+export const url = 'https://project1-backend-ukuj.onrender.com';
