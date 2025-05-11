@@ -15,10 +15,7 @@ const port = process.env.PORT || 10000;
 
 // middleware
 app.use(express.json())
-app.use(cors({
-  origin: "https://project1-frontend-cyss.onrender.com", // Replace with your actual frontend URL
-  credentials: true
-}));
+app.use(cors())
 
 // db connection
 connectDB();
