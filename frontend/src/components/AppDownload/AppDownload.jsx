@@ -15,4 +15,3 @@ const AppDownload = () => {
 }
 
 export default AppDownload
-//not part of the program
