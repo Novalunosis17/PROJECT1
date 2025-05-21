@@ -18,6 +18,7 @@ const Footer = () => {
                 <li>Globe: 0905 520 0362</li>
                 <li>DITO: 0994 358 9435</li>
                 <li>parohinogsherylashleymharie@gmail.com</li>
+                <li>Address: 790 sevilla st. binondo manila</li>
             </ul>
         </div>
       </div>
