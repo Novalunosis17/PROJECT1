@@ -7,7 +7,7 @@ const ExploreMenu = ({category,setCategory}) => {
   return (
     <div className='explore-menu' id='explore-menu'>
       <h1>Explore our menu</h1>
-      <p className='explore-menu-text'>Agahan pa lang, ganado ka na! Simulan ang araw nang busog at ganado handog ng mga paboritong almusal na inihain nang may kasamang pagmamahal. Ulam, sangag, at itlog-ihahain batay sa tipo mo. Perfect sa panlasang pinoy</p>
+      <p className='explore-menu-text'>Agahan pa lang, ganado ka na! Simulan ang araw nang busog at ganado handog ng mga paboritong almusal na inihain nang may kasamang pagmamahal. Ulam, sangag, at itlog-ihahain batay sa tipo mo. Perfect sa panlasang pinoy. <strong>Make your orders now — within manila only!</strong></p>
       <div className='explore-menu-list'>
         {menu_list.map((item,index)=>{
             return (
